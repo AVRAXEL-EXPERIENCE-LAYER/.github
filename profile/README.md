@@ -5,9 +5,9 @@
 ---
 
 ## Organization Details
-| ≽ **Owner & Founder** | ≽ **Auxxeon™’s Hub**     |
-| --------------------- | ------------------------- |
-| Auxxeon Aetheriuxx™   | https://linktr.ee/Auxxeon |
+| ≽ **Organization Name**  | ≽ **GitHub Organization**  | ≽ **Owner & Founder** | ≽ **Auxxeon™’s Hub**     |
+| ------------------------ | -------------------------- | ---------------------   | ------------------------- |
+| AVRAXEL™                 | https://github.com/AVRAXEL | Auxxeon Aetheriuxx™     | https://linktr.ee/Auxxeon |
 
 ---
 
