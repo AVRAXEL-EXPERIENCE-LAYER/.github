@@ -1,6 +1,6 @@
 # 🜁 AVRAXEL™ EXPERIENCE LAYER
-## **Pillar ID:** 04 — EXPERIENCE LAYER
-### *AVRAXEL™ ecosystem's fourth pillar: The human interface surface. Home of all user‑facing apps, UX systems, and experiential tech.*
+## **Pillar ID:** 05 — EXPERIENCE LAYER
+### *AVRAXEL™ ecosystem's fifth pillar: The human interface surface. Home of all user‑facing apps, UX systems, and experiential tech.*
 
 ---
 
